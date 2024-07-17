@@ -6,3 +6,5 @@ Changes
 responsive design impl
 
 changes 2 
+
+close #15
